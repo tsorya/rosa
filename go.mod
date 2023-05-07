@@ -18,11 +18,12 @@ require (
 	github.com/nathan-fiscaletti/consolesize-go v0.0.0-20210105204122-a87d9f614b9d
 	github.com/onsi/ginkgo/v2 v2.4.0
 	github.com/onsi/gomega v1.23.0
-	github.com/openshift-online/ocm-sdk-go v0.1.338
+	github.com/openshift-online/ocm-sdk-go v0.1.339
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
+	github.com/thoas/go-funk v0.9.3
 	github.com/zgalor/weberr v0.6.0
 	gitlab.com/c0b/go-ordered-json v0.0.0-20171130231205-49bbdab258c2
 	gopkg.in/square/go-jose.v2 v2.6.0
